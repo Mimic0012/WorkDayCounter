@@ -1,4 +1,5 @@
 #ifndef __PROGTEST__
+#define __PROGTEST__
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
